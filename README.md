@@ -62,7 +62,7 @@ foo@bar:# apt-get install php5-common libapache2-mod-php5 php5-cli
 Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 - Scripts PHP podem ser colocados em qualquer lugar do documento .php
 
-### Exemplo #01: arquivo PHP simples
+### Exemplo 01: arquivo PHP simples
 ```
 <?php
   // o código PHP fica exatamente entre esses dois conjuntos de simbolos
@@ -72,7 +72,7 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 
 - Geralmente, um arquivo PHP contém tags HTML e alguns códigos de script
 
-## Exemplo #02: imprimindo o "Hello, Word!"
+### Exemplo 02: imprimindo o "Hello, Word!"
 
 ```html
 <!DOCTYPE html>
