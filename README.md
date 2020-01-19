@@ -50,13 +50,9 @@ Antes de começar a estudar PHP, é recomendável que você já saiba o básico 
 - PHP é grátis e livre: http://www.php.net/
 - PHP é fácil de aprender e roda eficientemente no servidor
 
-### Onde baixar
-Você pode encontrar instruções específicas para o seu sistema operacional na página oficial de [instalação](https://www.php.net/manual/en/install.php "PHP: Installation and Configuration - Manual") do PHP.
-
-> Em distibruições GNU/Linux baseadas em Debian, basta usar o apt-get:
-```console
-foo@bar:# apt-get install php5-common libapache2-mod-php5 php5-cli
-```
+### Ambiente PHP
+Para os arquivos PHP serem lidos corretamente, você precisa configurar um servidor web. Ele deve suportar PHP. Configurar tudo isso do zero pode ser trabalhoso, então você pode baixar o [XAMPP](https://www.apachefriends.org/index.html). O XAMPP é uma distibuição Apache que carrega junto consigo o MariaDB, o PHP e o Perl.
+> Após a instalação, rode o XAMPP e acesse [localhost](localhost).
 
 ## Síntaxe PHP
 Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
