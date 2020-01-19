@@ -53,6 +53,9 @@ Antes de começar a estudar PHP, é recomendável que você já saiba o básico 
 ### Ambiente PHP
 Para os arquivos PHP serem lidos corretamente, você precisa configurar um servidor web. Ele deve suportar PHP. Configurá-lo pode ser trabalhoso, então você pode baixar o [XAMPP](https://www.apachefriends.org/index.html). O XAMPP é uma distibuição Apache que carrega junto consigo o MariaDB, o PHP e o Perl.
 > Após a instalação, rode o XAMPP e acesse [localhost](http://localhost)
+Se tudo correu bem, você deve ver uma página como esta:
+![image](https://user-images.githubusercontent.com/24627793/72675600-765aee00-3a65-11ea-8fca-340f014b2b40.png)
+
 
 ## Síntaxe PHP
 Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
