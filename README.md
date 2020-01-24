@@ -94,3 +94,10 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 
 - O código acima parece pertencer a um arquivo de extensão .html, mas é .php
 - Entre a sexta e a oitava linha, podemos observar um código PHP. Na sétima, fazemos uso de uma função bult-in. ```echo``` imprime conteúdo na tela do usuário.
+- Comandos PHP terminam com **ponto-e-vírgula**
+
+### PHP é case sensitive?
+- Palavras-chave: **não** case sensitive
+- Classes: **não** case sensitive
+- Funções: **não** case sensitive
+- **Variáveis**: case sensitive
