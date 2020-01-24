@@ -72,7 +72,7 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 **A extensão padrão de arquivos PHP é .php**
 
 - Geralmente, um arquivo PHP contém tags HTML e alguns códigos de script
-- O arquivo acima
+- O arquivo acima não gera conteúdo algum, veremos mais adiante porquê
 
 ### Exemplo 02: imprimindo o "Hello, Word!"
 
