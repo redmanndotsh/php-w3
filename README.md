@@ -187,3 +187,5 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 </html>
 ```
 
+#### Resultado esperado:
+![image](https://user-images.githubusercontent.com/24627793/73104093-5f3c5600-3ed4-11ea-81ab-b53fae76a041.png)
