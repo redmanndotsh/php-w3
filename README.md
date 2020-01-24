@@ -160,3 +160,30 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 - Você se lembra do [primeiro exemplo](#exemplo-01-arquivo-php-simples)? Ele não gerou nada ao usuário porque o script era composto apenas de um comentário
 - Em PHP, há muitas formas de se escrever comentários
 
+### Exemplo 05: comentários
+```php
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Comentários</h1>
+
+    <?php
+      // Esse é o comentário de uma linha
+      # Esse também — tanto duas barras como hash serão entendidos como comentários de uma linha
+
+      /*
+      * Esse comentário
+      * pode ocupar
+      * varias linhas
+      */
+
+      // Você pode usar comentários no meio do código
+      echo 5 /* + 15 */ + 5;
+    ?>
+  </body>
+</html>
+```
+
