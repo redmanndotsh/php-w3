@@ -101,3 +101,23 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 - Classes: **não** case sensitive
 - Funções: **não** case sensitive
 - **Variáveis**: case sensitive
+
+#### Exemplo 03: testando o case sensibility
+
+```php
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Minha primeira página PHP</h1>
+
+    <?php
+      ECHO "Olá, mundo!";
+      echo "Olá, mundo!";
+      EcHo "Olá, mundo!";
+    ?>
+  </body>
+</html>
+```
