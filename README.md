@@ -121,3 +121,9 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
   </body>
 </html>
 ```
+
+- ```echo``` é uma **função**
+- Funções não são case sensitive
+
+#### Resultado esperado:
+![image](https://user-images.githubusercontent.com/24627793/73088656-6f900900-3eb3-11ea-9cb3-3c9c3b46760f.png)
