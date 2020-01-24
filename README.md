@@ -153,3 +153,10 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 
 ##### Resultado esperado: erro de atribuição
 ![image](https://user-images.githubusercontent.com/24627793/73093002-6bb4b480-3ebc-11ea-915d-1c7e9cc2b244.png)
+
+## Comentários PHP
+- Comentário: linhas não executadas pelo interpretador — único propósito é ser lido por quem está lendo o código
+- Uso: possibilitar melhor entendimento do código, lembrar a si mesmo o que ainda tem que ser feito, documentar mudanças...
+- Você se lembra do [primeiro exemplo](#exemplo-01-arquivo-php-simples)? Ele não gerou nada ao usuário porque o script era composto apenas de um comentário
+- Em PHP, há muitas formas de se escrever comentários
+
