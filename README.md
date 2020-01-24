@@ -125,7 +125,7 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 - ```echo``` é uma **função**
 - Funções não são case sensitive
 
-##### Resultado esperado:
+###### Resultado esperado:
 ![image](https://user-images.githubusercontent.com/24627793/73088656-6f900900-3eb3-11ea-9cb3-3c9c3b46760f.png)
 
 #### Exemplo 04: o spoiler da variável
@@ -150,3 +150,6 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 
 - Foi criada uma variável ```cor``` e atribuido o valor ```vermelho``` a ela
 - **Variáveis são case sensitive**: ```cor``` é diferente de ```COR```
+
+###### Resultado esperado: erro de atribuição
+![image](https://user-images.githubusercontent.com/24627793/73093002-6bb4b480-3ebc-11ea-915d-1c7e9cc2b244.png)
