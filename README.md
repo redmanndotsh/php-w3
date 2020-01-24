@@ -64,7 +64,7 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 - Scripts PHP podem ser colocados em qualquer lugar do documento .php
 
 ### Exemplo 01: arquivo PHP simples
-```
+```php
 <?php
   // o código PHP fica exatamente entre esses dois conjuntos de simbolos
 ?>
@@ -72,10 +72,11 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 **A extensão padrão de arquivos PHP é .php**
 
 - Geralmente, um arquivo PHP contém tags HTML e alguns códigos de script
+- O arquivo acima
 
 ### Exemplo 02: imprimindo o "Hello, Word!"
 
-```html
+```php
 <!DOCTYPE html>
 <html>
   <body>
