@@ -111,12 +111,12 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>Minha primeira página PHP</h1>
+    <h1>Testando o case sensibility</h1>
 
     <?php
-      ECHO "Olá, mundo!";
-      echo "Olá, mundo!";
-      EcHo "Olá, mundo!";
+      ECHO "Olá, mundo!<br>";
+      echo "Olá, mundo!<br>";
+      EcHo "Olá, mundo!<br>";
     ?>
   </body>
 </html>
