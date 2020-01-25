@@ -189,3 +189,12 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 
 #### Resultado esperado:
 ![image](https://user-images.githubusercontent.com/24627793/73104093-5f3c5600-3ed4-11ea-81ab-b53fae76a041.png)
+
+## Variáveis PHP
+- **Variáveis**: "containeres" que armazenam dados
+
+### Declaração de variáveis PHP
+- Para usar o mecanismo de variáveis, é preciso criá-la antes: chamamos de *declaração da variável*
+- No [exemplo 04](#exemplo-04-o-spoiler-da-variável), declaramos a variável ```cor```
+- **Declarações de variáveis PHP se iniciam com $**
+
