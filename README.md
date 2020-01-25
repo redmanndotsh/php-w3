@@ -198,3 +198,23 @@ Um script PHP se inicia com ```<?php``` e se encerra com ```?>```
 - No [exemplo 04](#exemplo-04-o-spoiler-da-variável), declaramos a variável ```cor```
 - **Declarações de variáveis PHP se iniciam com $**
 
+#### Exemplo 06: declarando variáveis
+```php
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>Declarando variáveis</h1>
+
+    <?php
+      $github = "@redmanndotsh";
+      $idade = 21;
+      $altura = 1.69;
+      echo "Oi! O meu GitHub é " . $github . " porque o meu último sobrenome é Redmann e eu amo Shell.<br>";
+      echo "Ahh! Neste momento, eu tenho " . $idade . " anos e meço " . $altura . " de altura.";
+    ?>
+  </body>
+</html>
+```
